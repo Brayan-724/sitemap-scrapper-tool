@@ -1,0 +1,272 @@
+{
+  "https://apple-rumors.vercel.app/": {
+    "isExternal": false,
+    "parents": [],
+    "childs": [
+      "https://9to5mac.com/",
+      "https://9to5mac.com/2022/05/14/14-m1-pro-macbook-any-good-heavy-user-review/",
+      "https://9to5mac.com/2022/05/14/carpool-karaoke-the-series-season-5-coming-this-month-to-apple-tv-video/",
+      "https://9to5mac.com/2022/05/14/apple-is-building-a-feature-to-install-non-app-store-apps-on-macos/",
+      "https://9to5mac.com/2022/05/13/tim-cook-commencement-gallaude/",
+      "https://9to5mac.com/2022/05/13/apple-tv-shows-come-to-life-with-severance-and-ted-lasso-among-pop-ups-at-the-grove-apple-store-gallery/",
+      "https://9to5mac.com/2022/05/13/thunderbolt-monitors/",
+      "https://9to5mac.com/2022/05/13/9to5mac-happy-hour-381-ipod-touch-discontinued-usb-c-iphone-15-services-personnel-shakeups/",
+      "https://9to5mac.com/2022/05/13/ohio-bill-tracking-people-airtags/",
+      "https://9to5mac.com/2022/05/13/homekit-remote-access/",
+      "https://9to5mac.com/2022/05/13/iphone-15-usb-c/",
+      "https://appleinsider.com/",
+      "https://appleinsider.com/inside/iphone-se/vs/compared-apple-2022-iphone-se-vs-google-pixel-6a",
+      "https://appleinsider.com/articles/20/08/24/usb-3-usb-4-thunderbolt-usb-c----everything-you-need-to-know",
+      "https://appleinsider.com/articles/22/05/13/compared-apple-maps-versus-google-maps-in-2022",
+      "https://appleinsider.com/articles/22/05/13/apple-may-release-a-cheaper-apple-tv-streaming-device-in-2022-says-kuo",
+      "https://appleinsider.com/articles/22/04/21/these-5-macbook-pro-16-inch-models-are-in-stock-up-to-280-off-with-applecare",
+      "https://appleinsider.com/articles/22/05/10/compared-14-inch-macbook-pro-vs-2022-razer-blade-14",
+      "https://appleinsider.com/deals/best-microsoft-365-and-office-for-mac-deals",
+      "https://appleinsider.com/articles/22/05/14/netflix-could-follow-apple-tv-in-producing-live-streaming-video",
+      "https://appleinsider.com/articles/22/05/14/samsung-prepares-to-raise-chip-production-prices-by-up-to-20",
+      "https://appleinsider.com/articles/21/11/17/how-to-play-and-share-apple-music-on-apple-watch",
+      "https://macrumors.com/",
+      "https://macrumors.com/2022/05/14/top-stories-ipod-touch-discontinued/",
+      "https://macrumors.com/2022/05/13/apple-ipod-retrospective/",
+      "https://macrumors.com/2022/05/13/tim-cook-gallaudet-university-commencement/",
+      "https://macrumors.com/2022/05/13/usb-c-iphone-2023/",
+      "https://macrumors.com/2022/05/13/kuo-new-apple-tv-to-launch-second-half-2022/",
+      "https://macrumors.com/2022/05/13/best-apple-deals-of-the-week-may-13-2022/",
+      "https://macrumors.com/2022/05/13/original-iphone-was-meant-to-be-simless/",
+      "https://macrumors.com/2022/05/13/elon-musk-puts-44-billion-twitter-deal-on-hold/",
+      "https://macrumors.com/2022/05/12/apple-park-viewing-event-wwdc-attendees/",
+      "https://macrumors.com/2022/05/12/apple-music-outage/"
+    ]
+  },
+  "https://9to5mac.com/": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://9to5mac.com/2022/05/14/14-m1-pro-macbook-any-good-heavy-user-review/": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://9to5mac.com/2022/05/14/carpool-karaoke-the-series-season-5-coming-this-month-to-apple-tv-video/": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://9to5mac.com/2022/05/14/apple-is-building-a-feature-to-install-non-app-store-apps-on-macos/": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://9to5mac.com/2022/05/13/tim-cook-commencement-gallaude/": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://9to5mac.com/2022/05/13/apple-tv-shows-come-to-life-with-severance-and-ted-lasso-among-pop-ups-at-the-grove-apple-store-gallery/": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://9to5mac.com/2022/05/13/thunderbolt-monitors/": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://9to5mac.com/2022/05/13/9to5mac-happy-hour-381-ipod-touch-discontinued-usb-c-iphone-15-services-personnel-shakeups/": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://9to5mac.com/2022/05/13/ohio-bill-tracking-people-airtags/": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://9to5mac.com/2022/05/13/homekit-remote-access/": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://9to5mac.com/2022/05/13/iphone-15-usb-c/": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://appleinsider.com/": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://appleinsider.com/inside/iphone-se/vs/compared-apple-2022-iphone-se-vs-google-pixel-6a": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://appleinsider.com/articles/20/08/24/usb-3-usb-4-thunderbolt-usb-c----everything-you-need-to-know": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://appleinsider.com/articles/22/05/13/compared-apple-maps-versus-google-maps-in-2022": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://appleinsider.com/articles/22/05/13/apple-may-release-a-cheaper-apple-tv-streaming-device-in-2022-says-kuo": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://appleinsider.com/articles/22/04/21/these-5-macbook-pro-16-inch-models-are-in-stock-up-to-280-off-with-applecare": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://appleinsider.com/articles/22/05/10/compared-14-inch-macbook-pro-vs-2022-razer-blade-14": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://appleinsider.com/deals/best-microsoft-365-and-office-for-mac-deals": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://appleinsider.com/articles/22/05/14/netflix-could-follow-apple-tv-in-producing-live-streaming-video": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://appleinsider.com/articles/22/05/14/samsung-prepares-to-raise-chip-production-prices-by-up-to-20": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://appleinsider.com/articles/21/11/17/how-to-play-and-share-apple-music-on-apple-watch": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://macrumors.com/": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://macrumors.com/2022/05/14/top-stories-ipod-touch-discontinued/": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://macrumors.com/2022/05/13/apple-ipod-retrospective/": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://macrumors.com/2022/05/13/tim-cook-gallaudet-university-commencement/": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://macrumors.com/2022/05/13/usb-c-iphone-2023/": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://macrumors.com/2022/05/13/kuo-new-apple-tv-to-launch-second-half-2022/": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://macrumors.com/2022/05/13/best-apple-deals-of-the-week-may-13-2022/": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://macrumors.com/2022/05/13/original-iphone-was-meant-to-be-simless/": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://macrumors.com/2022/05/13/elon-musk-puts-44-billion-twitter-deal-on-hold/": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://macrumors.com/2022/05/12/apple-park-viewing-event-wwdc-attendees/": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  },
+  "https://macrumors.com/2022/05/12/apple-music-outage/": {
+    "isExternal": true,
+    "parents": [
+      "https://apple-rumors.vercel.app/"
+    ],
+    "childs": []
+  }
+}

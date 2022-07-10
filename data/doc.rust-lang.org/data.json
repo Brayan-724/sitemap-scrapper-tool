@@ -1,0 +1,39 @@
+{
+  "https://doc.rust-lang.org/book/": {
+    "isExternal": false,
+    "parents": [],
+    "childs": [
+      "https://github.com/rust-lang/book",
+      "https://doc.rust-lang.org/stable/book/",
+      "https://nostarch.com/rust"
+    ]
+  },
+  "https://github.com/rust-lang/book": {
+    "isExternal": true,
+    "parents": [
+      "https://doc.rust-lang.org/book/",
+      "https://doc.rust-lang.org/stable/book/"
+    ],
+    "childs": []
+  },
+  "https://doc.rust-lang.org/stable/book/": {
+    "isExternal": false,
+    "parents": [
+      "https://doc.rust-lang.org/book/",
+      "https://doc.rust-lang.org/stable/book/"
+    ],
+    "childs": [
+      "https://github.com/rust-lang/book",
+      "https://doc.rust-lang.org/stable/book/",
+      "https://nostarch.com/rust"
+    ]
+  },
+  "https://nostarch.com/rust": {
+    "isExternal": true,
+    "parents": [
+      "https://doc.rust-lang.org/book/",
+      "https://doc.rust-lang.org/stable/book/"
+    ],
+    "childs": []
+  }
+}
